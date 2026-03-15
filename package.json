@@ -1,0 +1,12 @@
+{
+  "name": "@geersch/skills",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Best practices and skills for Node.js development",
+  "homepage": "https://github.com/geersch/skills",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geersch/skills.git"
+  },
+  "scripts": {}
+}
