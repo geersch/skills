@@ -14,6 +14,7 @@ Each skill is a self-contained directory under `skills/<skill-name>/`:
 Current top-level skills:
 
 - `node`
+- `vitest`
 
 ## Editing rules
 
